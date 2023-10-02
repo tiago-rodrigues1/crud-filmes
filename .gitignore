@@ -1,0 +1,10 @@
+*.class
+bin/
+build/
+/bin1/
+java/build/**
+mtj.tmp/
+*.jar
+*.war
+*.ear
+!lib/**
